@@ -3,15 +3,16 @@
 # Overview
 
 This project, developed as part of the AWS AI/ML Scholarship Program Nanodegree – AI Programming with Python, uses advanced Convolutional Neural Network (CNN) architectures — ResNet, AlexNet, and VGG — to classify dog breeds from images.
+
 The goal is to:
 
-Accurately identify whether an image contains a dog.
+-Accurately identify whether an image contains a dog.
 
-Determine the specific breed when applicable.
+-Determine the specific breed when applicable.
 
-Compare performance across different pretrained models.
+-Compare performance across different pretrained models.
 
-This project demonstrates how transfer learning and pre-trained deep learning models can be applied to real-world computer vision tasks.
+-This project demonstrates how transfer learning and pre-trained deep learning models can be applied to real-world computer vision tasks.
 
 # About the Project
 
